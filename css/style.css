@@ -24,3 +24,6 @@ h1, h2, h3 {
   color: tomato;
 }
 
+input[type=text], .borderline {
+  border: 3px solid tomato;
+}
