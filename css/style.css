@@ -27,3 +27,14 @@ h1, h2, h3 {
 input[type=text], .borderline {
   border: 3px solid tomato;
 }
+
+footer {
+  width: 100%;
+  height: 100px;
+  background-color: #1a1a1a;
+  color: mediumseagreen;
+}
+
+.floater {
+  float: left;
+}
